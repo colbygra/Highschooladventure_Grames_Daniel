@@ -1,0 +1,2 @@
+# Highschooladventure_Grames_Daniel
+python story
